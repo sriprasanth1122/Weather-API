@@ -4,4 +4,5 @@ The weather report has details of Temperature, Humidity, Pressure and Wind speed
 
 Image of the project
 
-![Weather API](https://user-images.githubusercontent.com/107243584/208891424-62f4162b-8536-4130-8fe1-341e26402d36.png)
+![image](https://user-images.githubusercontent.com/107243584/208907505-c266b717-ff08-48ad-bfe7-4d7a46284d56.png)
+
